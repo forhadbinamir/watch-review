@@ -1,7 +1,7 @@
 # Getting Started with Review Watch Website App
 
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Watch review website live link here[Watch review website](https://review-watch.netlify.app/).
 
 ## Available Scripts
 
