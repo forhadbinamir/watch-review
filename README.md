@@ -1,7 +1,7 @@
 # Getting Started with Review Watch Website App
 
 
-Watch review website live link here[Watch review website](https://review-watch.netlify.app/).
+Watch review website live link here [Watch review website](https://review-watch.netlify.app/).
 
 ## Available Scripts
 
